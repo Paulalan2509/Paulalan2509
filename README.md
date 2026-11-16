@@ -31,6 +31,8 @@ These five are concept projects I built to practise and show my work. The busine
 | **GoldBridge Education** | Bilingual (EN/FR) multi-page website for an education consultancy helping African students study in India | [repo](https://github.com/Paulalan2509/goldbridge-education) |
 | **Paulo Chatbot** | Console chatbot in Python with input sanitising, specific exception handling and a 14-test pytest suite (phase 1 of a larger plan) | [repo](https://github.com/Paulalan2509/Paulo_Chatbot) |
 
+SCENTSored, PharmaHope and GoldBridge Education were built for real clients. Paulo Chatbot is a personal learning project.
+
 ## Tools
 `HTML` `CSS` `JavaScript` `Python` `Django` `Tailwind CSS` `SVG` `Accessibility` `SEO`
 
