@@ -21,10 +21,18 @@ I build clear, fast websites that work on a phone first, design interfaces peopl
 | **Bluebird Barbers** | Booking and enquiry app with real availability and form validation | [repo](https://github.com/Paulalan2509/booking-app) | [demo](https://paulalan2509.github.io/booking-app/) |
 | **Chai House sales dashboard** | Interactive dashboard with hand-drawn SVG charts, filters and CSV upload | [repo](https://github.com/Paulalan2509/data-dashboard) | [demo](https://paulalan2509.github.io/data-dashboard/) |
 
-These are concept projects I built to practise and show my work. The businesses, people and data in them are made up.
+These five are concept projects I built to practise and show my work. The businesses, people and data in them are made up.
+
+## More projects (Python and Django)
+| Project | What it is | Code |
+|---|---|---|
+| **SCENTSored** | Django fragrance storefront: filterable catalogue, session cart, coupons, saved addresses, preorders, Razorpay payments with signed-webhook verification, and a customised admin | [repo](https://github.com/Paulalan2509/Scentsored) |
+| **PharmaHope** | Django online pharmacy and health community: product catalogue, cart, checkout, PayPal payment notifications, a blog and a discussion forum | [repo](https://github.com/Paulalan2509/pharmacy-app) |
+| **GoldBridge Education** | Bilingual (EN/FR) multi-page website for an education consultancy helping African students study in India | [repo](https://github.com/Paulalan2509/goldbridge-education) |
+| **Paulo Chatbot** | Console chatbot in Python with input sanitising, specific exception handling and a 14-test pytest suite (phase 1 of a larger plan) | [repo](https://github.com/Paulalan2509/Paulo_Chatbot) |
 
 ## Tools
-`HTML` `CSS` `JavaScript` `Python` `SVG` `Accessibility` `SEO`
+`HTML` `CSS` `JavaScript` `Python` `Django` `Tailwind CSS` `SVG` `Accessibility` `SEO`
 
 ## Let's talk
 📧 nyoumpau2509@gmail.com · 💬 WhatsApp +91 72079 47168 · [LinkedIn](https://www.linkedin.com/in/paul-alain-nyoum-667b95357) · [X](https://x.com/alan_ny223)
