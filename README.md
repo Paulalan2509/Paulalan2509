@@ -1,18 +1,50 @@
-# Hi, I'm Paul Alain Nyoum 👋
+<div align="center">
 
-**Web developer, UI/UX designer and French/English writer** based in Hyderabad, India. I'm a second-year BCA student at Guru Nanak University, and I take on freelance projects.
+<a href="https://paulalan2509.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Paul+Alain+Nyoum+%F0%9F%91%8B;Web+developer+%26+UI%2FUX+designer;I+build+Django+apps+for+real+clients;Writing+and+translating+in+English+%26+Fran%C3%A7ais">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0F5C5C&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Paul+Alain+Nyoum+%F0%9F%91%8B;Web+developer+%26+UI%2FUX+designer;I+build+Django+apps+for+real+clients;Writing+and+translating+in+English+%26+Fran%C3%A7ais">
+    <img alt="Hi, I'm Paul Alain Nyoum. Web developer and UI/UX designer." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0F5C5C&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Paul+Alain+Nyoum+%F0%9F%91%8B;Web+developer+%26+UI%2FUX+designer">
+  </picture>
+</a>
 
-I build clear, fast websites that work on a phone first, design interfaces people can actually use, and write content that people (and search engines) can find, in English and French.
+Second-year BCA student at Guru Nanak University, Hyderabad · available for freelance projects
 
-**Portfolio:** [paulalan2509.github.io](https://paulalan2509.github.io) · **Available for freelance projects**
+<a href="https://paulalan2509.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-paulalan2509.github.io-0F5C5C?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/paul-alain-nyoum-667b95357"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Paul_Alain_Nyoum-0A66C2?style=for-the-badge"></a>
+<a href="https://x.com/alan_ny223"><img alt="X" src="https://img.shields.io/badge/X-@alan__ny223-111111?style=for-the-badge"></a>
+
+<a href="mailto:nyoumpau2509@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-nyoumpau2509@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://wa.me/917207947168"><img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-+91_72079_47168-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+</div>
 
 ## What I do
-- **Websites and front-end development:** HTML, CSS and JavaScript, tested on real screen sizes
+- **Websites and web apps:** Python, Django, Flask, FastAPI, HTML, CSS and JavaScript, tested on real screen sizes
 - **UI/UX design:** case studies, flows, wireframes and clickable prototypes
 - **SEO writing:** articles with proper structure, metadata and sitemaps
 - **Translation:** French ⇄ English that reads naturally, not word for word
 
+## Tech stack
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html,css,js,tailwind,py,django,flask,fastapi,postgres,mysql,sqlite,git,github,vscode,figma&perline=8&theme=light">
+    <img alt="HTML, CSS, JavaScript, Tailwind CSS, Python, Django, Flask, FastAPI, PostgreSQL, MySQL, SQLite, Git, GitHub, VS Code, Figma" src="https://skillicons.dev/icons?i=html,css,js,tailwind,py,django,flask,fastapi,postgres,mysql,sqlite,git,github,vscode,figma&perline=8&theme=dark">
+  </picture>
+</p>
+
+## Client work
+Built for real clients, with their permission to show the code.
+
+| Project | What it is | Code |
+|---|---|---|
+| **SCENTSored** | Django fragrance store: filterable catalogue, session cart, coupons, saved addresses, preorders, Razorpay payments with signed-webhook verification, and a customised admin | [repo](https://github.com/Paulalan2509/Scentsored) |
+| **PharmaHope** | Django online pharmacy and health community: catalogue, cart, checkout, PayPal payment notifications, a blog and a discussion forum | [repo](https://github.com/Paulalan2509/pharmacy-app) |
+| **GoldBridge Education** | Bilingual (EN/FR) seven-page website for an education consultancy helping African students study in India | [repo](https://github.com/Paulalan2509/goldbridge-education) |
+
 ## Selected projects
+Concept projects I built to practise and show my work. The businesses, people and data in them are made up.
+
 | Project | What it is | Code | Live |
 |---|---|---|---|
 | **Bazaar Chai House** | Four-page café website with an "open now" badge, a filterable menu and a booking form | [repo](https://github.com/Paulalan2509/chai-house) | [demo](https://paulalan2509.github.io/chai-house/) |
@@ -20,21 +52,7 @@ I build clear, fast websites that work on a phone first, design interfaces peopl
 | **Settle In** | UI/UX case study and clickable prototype for a first-month app for international students | [repo](https://github.com/Paulalan2509/ux-settle-in) | [demo](https://paulalan2509.github.io/ux-settle-in/) |
 | **Bluebird Barbers** | Booking and enquiry app with real availability and form validation | [repo](https://github.com/Paulalan2509/booking-app) | [demo](https://paulalan2509.github.io/booking-app/) |
 | **Chai House sales dashboard** | Interactive dashboard with hand-drawn SVG charts, filters and CSV upload | [repo](https://github.com/Paulalan2509/data-dashboard) | [demo](https://paulalan2509.github.io/data-dashboard/) |
-
-These five are concept projects I built to practise and show my work. The businesses, people and data in them are made up.
-
-## More projects (Python and Django)
-| Project | What it is | Code |
-|---|---|---|
-| **SCENTSored** | Django fragrance storefront: filterable catalogue, session cart, coupons, saved addresses, preorders, Razorpay payments with signed-webhook verification, and a customised admin | [repo](https://github.com/Paulalan2509/Scentsored) |
-| **PharmaHope** | Django online pharmacy and health community: product catalogue, cart, checkout, PayPal payment notifications, a blog and a discussion forum | [repo](https://github.com/Paulalan2509/pharmacy-app) |
-| **GoldBridge Education** | Bilingual (EN/FR) multi-page website for an education consultancy helping African students study in India | [repo](https://github.com/Paulalan2509/goldbridge-education) |
-| **Paulo Chatbot** | Console chatbot in Python with input sanitising, specific exception handling and a 14-test pytest suite (phase 1 of a larger plan) | [repo](https://github.com/Paulalan2509/Paulo_Chatbot) |
-
-SCENTSored, PharmaHope and GoldBridge Education were built for real clients. Paulo Chatbot is a personal learning project.
-
-## Tools
-`HTML` `CSS` `JavaScript` `Python` `Django` `Tailwind CSS` `SVG` `Accessibility` `SEO`
+| **Paulo Chatbot** | Python console chatbot with input sanitising and a 14-test pytest suite | [repo](https://github.com/Paulalan2509/Paulo_Chatbot) | |
 
 ## Let's talk
-📧 nyoumpau2509@gmail.com · 💬 WhatsApp +91 72079 47168 · [LinkedIn](https://www.linkedin.com/in/paul-alain-nyoum-667b95357) · [X](https://x.com/alan_ny223)
+Have a project in mind? Email me or message me on WhatsApp using the badges above. I reply in English or French.
