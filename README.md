@@ -2,6 +2,14 @@
 
 <a href="https://paulalan2509.github.io">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+    <img alt="Paul Alain Nyoum: web developer and UI/UX designer, Hyderabad, India" src="assets/banner-light.png" width="100%">
+  </picture>
+</a>
+
+<a href="https://paulalan2509.github.io">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Paul+Alain+Nyoum+%F0%9F%91%8B;Web+developer+%26+UI%2FUX+designer;I+build+Django+apps+for+real+clients;Writing+and+translating+in+English+%26+Fran%C3%A7ais">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0F5C5C&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Paul+Alain+Nyoum+%F0%9F%91%8B;Web+developer+%26+UI%2FUX+designer;I+build+Django+apps+for+real+clients;Writing+and+translating+in+English+%26+Fran%C3%A7ais">
     <img alt="Hi, I'm Paul Alain Nyoum. Web developer and UI/UX designer." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0F5C5C&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Paul+Alain+Nyoum+%F0%9F%91%8B;Web+developer+%26+UI%2FUX+designer">
