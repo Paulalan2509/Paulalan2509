@@ -44,23 +44,29 @@ Second-year BCA student at Guru Nanak University, Hyderabad · available for fre
 ## Client work
 Built for real clients, with their permission to show the code.
 
-| Project | What it is | Code |
-|---|---|---|
-| **SCENTSored** | Django fragrance store: filterable catalogue, session cart, coupons, saved addresses, preorders, Razorpay payments with signed-webhook verification, and a customised admin | [repo](https://github.com/Paulalan2509/Scentsored) |
-| **PharmaHope** | Django online pharmacy and health community: catalogue, cart, checkout, PayPal payment notifications, a blog and a discussion forum | [repo](https://github.com/Paulalan2509/pharmacy-app) |
-| **GoldBridge Education** | Bilingual (EN/FR) seven-page website for an education consultancy helping African students study in India | [repo](https://github.com/Paulalan2509/goldbridge-education) |
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="https://github.com/Paulalan2509/Scentsored"><img src="assets/projects/scentsored.png" width="290" alt="SCENTSored: Django fragrance store"></a><br><a href="https://github.com/Paulalan2509/Scentsored">Code</a></td>
+<td align="center" valign="top" width="33%"><a href="https://github.com/Paulalan2509/pharmacy-app"><img src="assets/projects/pharmahope.png" width="290" alt="PharmaHope: online pharmacy"></a><br><a href="https://github.com/Paulalan2509/pharmacy-app">Code</a></td>
+<td align="center" valign="top" width="33%"><a href="https://github.com/Paulalan2509/goldbridge-education"><img src="assets/projects/goldbridge.png" width="290" alt="GoldBridge Education: bilingual website"></a><br><a href="https://github.com/Paulalan2509/goldbridge-education">Code</a></td>
+</tr>
+</table>
 
-## Selected projects
+## Concept and personal projects
 Concept projects I built to practise and show my work. The businesses, people and data in them are made up.
 
-| Project | What it is | Code | Live |
-|---|---|---|---|
-| **Bazaar Chai House** | Four-page café website with an "open now" badge, a filterable menu and a booking form | [repo](https://github.com/Paulalan2509/chai-house) | [demo](https://paulalan2509.github.io/chai-house/) |
-| **Plain Words** | Bilingual (EN/FR) blog built around its own SEO checklist | [repo](https://github.com/Paulalan2509/seo-blog) | [demo](https://paulalan2509.github.io/seo-blog/) |
-| **Settle In** | UI/UX case study and clickable prototype for a first-month app for international students | [repo](https://github.com/Paulalan2509/ux-settle-in) | [demo](https://paulalan2509.github.io/ux-settle-in/) |
-| **Bluebird Barbers** | Booking and enquiry app with real availability and form validation | [repo](https://github.com/Paulalan2509/booking-app) | [demo](https://paulalan2509.github.io/booking-app/) |
-| **Chai House sales dashboard** | Interactive dashboard with hand-drawn SVG charts, filters and CSV upload | [repo](https://github.com/Paulalan2509/data-dashboard) | [demo](https://paulalan2509.github.io/data-dashboard/) |
-| **Paulo Chatbot** | Python console chatbot with input sanitising and a 14-test pytest suite | [repo](https://github.com/Paulalan2509/Paulo_Chatbot) | |
+<table>
+<tr>
+<td align="center" valign="top" width="33%"><a href="https://paulalan2509.github.io/chai-house/"><img src="assets/projects/chai-house.png" width="290" alt="Bazaar Chai House"></a><br><a href="https://paulalan2509.github.io/chai-house/">Live demo</a> · <a href="https://github.com/Paulalan2509/chai-house">Code</a></td>
+<td align="center" valign="top" width="33%"><a href="https://paulalan2509.github.io/seo-blog/"><img src="assets/projects/plain-words.png" width="290" alt="Plain Words"></a><br><a href="https://paulalan2509.github.io/seo-blog/">Live demo</a> · <a href="https://github.com/Paulalan2509/seo-blog">Code</a></td>
+<td align="center" valign="top" width="33%"><a href="https://paulalan2509.github.io/ux-settle-in/"><img src="assets/projects/settle-in.png" width="290" alt="Settle In"></a><br><a href="https://paulalan2509.github.io/ux-settle-in/">Live demo</a> · <a href="https://github.com/Paulalan2509/ux-settle-in">Code</a></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%"><a href="https://paulalan2509.github.io/booking-app/"><img src="assets/projects/bluebird-barbers.png" width="290" alt="Bluebird Barbers"></a><br><a href="https://paulalan2509.github.io/booking-app/">Live demo</a> · <a href="https://github.com/Paulalan2509/booking-app">Code</a></td>
+<td align="center" valign="top" width="33%"><a href="https://paulalan2509.github.io/data-dashboard/"><img src="assets/projects/chai-dashboard.png" width="290" alt="Chai House sales dashboard"></a><br><a href="https://paulalan2509.github.io/data-dashboard/">Live demo</a> · <a href="https://github.com/Paulalan2509/data-dashboard">Code</a></td>
+<td align="center" valign="top" width="33%"><a href="https://github.com/Paulalan2509/Paulo_Chatbot"><img src="assets/projects/paulo-chatbot.png" width="290" alt="Paulo Chatbot"></a><br><a href="https://github.com/Paulalan2509/Paulo_Chatbot">Code</a></td>
+</tr>
+</table>
 
 ## Let's talk
 Have a project in mind? Email me or message me on WhatsApp using the badges above. I reply in English or French.
