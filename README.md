@@ -20,7 +20,7 @@ Second-year BCA student at Guru Nanak University, Hyderabad · available for fre
 
 <a href="https://paulalan2509.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-paulalan2509.github.io-0F5C5C?style=for-the-badge"></a>
 <a href="https://www.linkedin.com/in/paul-alain-nyoum-667b95357"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Paul_Alain_Nyoum-0A66C2?style=for-the-badge"></a>
-<a href="https://x.com/alan_ny223"><img alt="X" src="https://img.shields.io/badge/X-@alan__ny223-111111?style=for-the-badge"></a>
+<a href="https://x.com/alan_ny223"><img alt="X" src="https://img.shields.io/badge/X-@alan__ny223-475569?style=for-the-badge"></a>
 
 <a href="mailto:nyoumpau2509@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-nyoumpau2509@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://wa.me/917207947168"><img alt="WhatsApp" src="https://img.shields.io/badge/WHATSAPP-+91_72079_47168-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
