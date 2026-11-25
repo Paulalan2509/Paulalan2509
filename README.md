@@ -10,8 +10,8 @@
 
 <a href="https://paulalan2509.github.io">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Paul+Alain+Nyoum+%F0%9F%91%8B;Web+developer+%26+UI%2FUX+designer;I+build+Django+apps+for+real+clients;Writing+and+translating+in+English+%26+Fran%C3%A7ais">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0F5C5C&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Paul+Alain+Nyoum+%F0%9F%91%8B;Web+developer+%26+UI%2FUX+designer;I+build+Django+apps+for+real+clients;Writing+and+translating+in+English+%26+Fran%C3%A7ais">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=5EEAD4&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Paul+Alain+Nyoum+%F0%9F%91%8B;Web+developer+%26+UI%2FUX+designer;I+build+Django+apps+for+real+clients;Translating+in+English+%26+French%C3%A7">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0F5C5C&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Paul+Alain+Nyoum+%F0%9F%91%8B;Web+developer+%26+UI%2FUX+designer;I+build+Django+apps+for+real+clients;Translating+in+English+%26+French%C3%A7">
     <img alt="Hi, I'm Paul Alain Nyoum. Web developer and UI/UX designer." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0F5C5C&center=true&vCenter=true&width=640&height=60&lines=Hi%2C+I'm+Paul+Alain+Nyoum+%F0%9F%91%8B;Web+developer+%26+UI%2FUX+designer">
   </picture>
 </a>
